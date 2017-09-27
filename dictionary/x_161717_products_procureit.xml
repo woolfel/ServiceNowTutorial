@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="ProcureIt" max_length="40" name="x_161717_products_procureit" type="collection"/>
-</database>
