@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="productsdb" max_length="40" name="x_161717_products_productsdb" type="collection">
+        <element label="Finance Approval Required" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element default="true" label="Approval Required" max_length="40" name="u_boolean_9" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Business Group" mandatory="true" max_length="40" name="u_string_1" type="string">
+            <choice>
+                <element label="Sales" sequence="0" value="Sales"/>
+                <element label="Human Resources" sequence="1" value="Human Resources"/>
+                <element label="Application Development" sequence="2" value="Application Development"/>
+                <element label="Network Administration" sequence="3" value="Network Administration"/>
+                <element label="Business Strategy" sequence="4" value="Business Strategy"/>
+                <element label="Data Warehouse" sequence="5" value="Data Warehouse"/>
+                <element label="Analytics" sequence="6" value="Analytics"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Computer Type" max_length="40" name="u_string_2" type="string">
+            <choice>
+                <element label="Basic PC" sequence="0" value="Basic PC"/>
+                <element label="Developer PC" sequence="1" value="Developer PC"/>
+                <element label="Macbook Air" sequence="2" value="Macbook Air"/>
+                <element label="Macbook Pro" sequence="3" value="Macbook Pro"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Brand" max_length="40" name="u_string_3" type="string">
+            <choice>
+                <element label="Dell" sequence="0" value="Dell"/>
+                <element label="IBM" sequence="1" value="IBM"/>
+                <element label="Apple" sequence="2" value="Apple"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Additional Software" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Equipment Type" mandatory="true" max_length="40" name="u_string_5" type="string">
+            <choice>
+                <element label="Mobile" sequence="0" value="Mobile"/>
+                <element label="Computer" sequence="1" value="Computer"/>
+                <element label="Tablet" sequence="2" value="Tablet"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="u_string_8" type="string"/>
+    </element>
+</database>

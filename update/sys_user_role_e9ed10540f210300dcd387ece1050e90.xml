@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_161717_products.productsdb_user</name>
+        <suffix>productsdb_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-27 12:37:08</sys_created_on>
+        <sys_id>e9ed10540f210300dcd387ece1050e90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161717_products.productsdb_user</sys_name>
+        <sys_package display_value="products" source="x_161717_products">72bd5c900f210300dcd387ece1050e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="products">72bd5c900f210300dcd387ece1050e91</sys_scope>
+        <sys_update_name>sys_user_role_e9ed10540f210300dcd387ece1050e90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-27 12:37:08</sys_updated_on>
+    </sys_user_role>
+</record_update>

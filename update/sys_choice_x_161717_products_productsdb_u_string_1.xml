@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_1" table="x_161717_products_productsdb" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>016068940f210300dcd387ece1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Sales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>816068940f210300dcd387ece1050e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Human Resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Development</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>016068940f210300dcd387ece1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Application Development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Administration</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d6068940f210300dcd387ece1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Network Administration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Strategy</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d6068940f210300dcd387ece1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Business Strategy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Warehouse</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>896068940f210300dcd387ece1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Data Warehouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Analytics</label>
+            <language>en</language>
+            <name>x_161717_products_productsdb</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>096068940f210300dcd387ece1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+            <value>Analytics</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <name>x_161717_products_productsdb</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 12:48:01</sys_created_on>
+            <sys_id>4d6068940f210300dcd387ece1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_string_1</sys_name>
+            <sys_package display_value="products" source="x_161717_products">72bd5c900f210300dcd387ece1050e91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="products">72bd5c900f210300dcd387ece1050e91</sys_scope>
+            <sys_update_name>sys_choice_x_161717_products_productsdb_u_string_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 12:48:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
